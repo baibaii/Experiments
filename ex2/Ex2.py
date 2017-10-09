@@ -54,4 +54,4 @@ for x in P[1]:
         text.append(chr(x))
 a = ""
 print ("the text is: %s") % a.join(text)
-#the text is:Yay! You get an A. =)
+#the text is:Yay! You get an A. =) 
